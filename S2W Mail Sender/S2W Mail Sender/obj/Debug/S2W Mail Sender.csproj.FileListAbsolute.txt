@@ -1,0 +1,6 @@
+G:\my C# programms\S2W Mail Sender\S2W Mail Sender\bin\Debug\S2W Mail Sender.exe.config
+G:\my C# programms\S2W Mail Sender\S2W Mail Sender\bin\Debug\S2W Mail Sender.exe
+G:\my C# programms\S2W Mail Sender\S2W Mail Sender\bin\Debug\S2W Mail Sender.pdb
+G:\my C# programms\S2W Mail Sender\S2W Mail Sender\obj\Debug\S2W Mail Sender.csprojResolveAssemblyReference.cache
+G:\my C# programms\S2W Mail Sender\S2W Mail Sender\obj\Debug\S2W Mail Sender.exe
+G:\my C# programms\S2W Mail Sender\S2W Mail Sender\obj\Debug\S2W Mail Sender.pdb
